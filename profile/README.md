@@ -2,6 +2,8 @@
 
 ## Статьи
 
+[Первые шаги](https://github.com/urho3d-learn/first-steps)
+
 ## Примеры
 
 ## Законченные игры
