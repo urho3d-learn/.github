@@ -8,6 +8,10 @@
 [Редактор Urho3D](https://github.com/urho3d-learn/editor)<br>
 [Игры всерьёз](https://github.com/urho3d-learn/flappy-urho) (первый проект на C++, игра `Flappy Urho`)
 
+### Остальные
+
+[Материалы](https://github.com/urho3d-learn/materials)
+
 ## Примеры
 
 ## Законченные игры
