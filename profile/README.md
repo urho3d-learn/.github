@@ -6,7 +6,7 @@
 
 [Первые шаги](https://github.com/urho3d-learn/first-steps)<br>
 [Редактор Urho3D](https://github.com/urho3d-learn/editor)<br>
-[Игры всерьёз](https://github.com/urho3d-learn/flappy-urho) (игра `Flappy Urho`, C++)
+[Игры всерьёз](https://github.com/urho3d-learn/flappy-urho) (первый проект на C++, игра `Flappy Urho`)
 
 ## Примеры
 
