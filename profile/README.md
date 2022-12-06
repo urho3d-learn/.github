@@ -16,5 +16,5 @@
 
 ## Законченные игры
 
-[Flappy Urho](https://github.com/urho3d-learn/flappy-urho) (туториал `Игры всерьёз`, C++)<br>
+[Flappy Urho](https://github.com/urho3d-learn/flappy-urho) (туториал `Игры всерьёз`)<br>
 [Puddle Simulator](https://github.com/urho3d-learn/puddle-simulator)
