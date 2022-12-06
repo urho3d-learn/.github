@@ -17,4 +17,6 @@
 ## Законченные игры
 
 [Flappy Urho](https://github.com/urho3d-learn/flappy-urho) (туториал `Игры всерьёз`)<br>
-[Симулятор лужи](https://github.com/urho3d-learn/puddle-simulator)
+[Симулятор лужи](https://github.com/urho3d-learn/puddle-simulator)<br>
+[Родственные души](https://github.com/urho3d-learn/soulmates)
+
