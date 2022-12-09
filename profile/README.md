@@ -10,7 +10,8 @@
 
 ### Графика
 
-[Материалы](https://github.com/urho3d-learn/materials)
+[Материалы](https://github.com/urho3d-learn/materials)<br>
+[Постэффекты](https://github.com/urho3d-learn/post-effects)
 
 ## Примеры
 
