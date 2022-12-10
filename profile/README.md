@@ -11,7 +11,8 @@
 ### Графика
 
 [Материалы](https://github.com/urho3d-learn/materials)<br>
-[Постэффекты](https://github.com/urho3d-learn/post-effects)
+[Постэффекты](https://github.com/urho3d-learn/post-effects)<br>
+[Прямое использование графических API](https://github.com/urho3d-learn/direct-gapi-usage)
 
 ## Примеры
 
