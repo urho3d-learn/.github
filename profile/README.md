@@ -16,6 +16,8 @@
 
 ## Примеры
 
+Будут добавлены позднее.
+
 ## Законченные игры
 
 [Flappy Urho](https://github.com/urho3d-learn/flappy-urho) (туториал `Игры всерьёз`)<br>
